@@ -1,0 +1,1 @@
+g++-8 -c -pipe -Wall -Wno-switch -ggdb -g3 -fopenmp -lpthread -o Build/skeleton.o Source/skeleton.cpp -I/usr/local/include/SDL2 -D_THREAD_SAFE -I../glm/
